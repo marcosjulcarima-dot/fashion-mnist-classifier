@@ -1,8 +1,8 @@
-streamlit
-tensorflow
-pillow
-numpy
-pandas
-matplotlib
-scikit-learn
-h5py
+streamlit>=1.28.0
+tensorflow-cpu==2.13.0
+pillow>=9.0.0
+numpy>=1.23.0,<2.0.0
+pandas>=1.5.0
+matplotlib>=3.6.0
+scikit-learn>=1.2.0
+h5py>=3.8.0
